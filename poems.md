@@ -1,7 +1,7 @@
 ---
 title: Poems
 permalink: /poems/
-standfirst: Eighteen poems. Published work, and poems she finished but never sent out.
+standfirst: Twenty poems. Published work, and poems she finished but never sent out.
 ---
 
 {%- assign published = site.poems | where_exp: "p", "p.publication" -%}
@@ -27,10 +27,11 @@ its original publication at the foot of the page.
 <h2 class="group-heading">From her papers</h2>
 
 <p class="index-note">
-Poems she had brought to a finish and kept in a folder of her own marked
-<em>polished</em>, transcribed from her files. Punctuation and lineation follow
-her typescripts, and the dates are the dates of her documents rather than of
-the writing.
+Poems she had brought to a finish, kept in a folder of her own marked
+<em>polished</em> or gathered into her manuscript <em>Centrifuge Rattle</em>,
+and transcribed from her files. Punctuation and lineation follow her
+typescripts, and the dates are the dates of her documents rather than of the
+writing.
 </p>
 
 <ul class="poem-list">

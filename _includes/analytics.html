@@ -1,0 +1,13 @@
+{%- if site.analytics.goatcounter and jekyll.environment == "production" -%}
+<script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+{%- endif -%}
+{%- if site.analytics.google_measurement_id and jekyll.environment == "production" -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google_measurement_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.analytics.google_measurement_id }}', { anonymize_ip: true });
+</script>
+{%- endif -%}
