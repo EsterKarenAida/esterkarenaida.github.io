@@ -351,10 +351,33 @@ h2 { font-size: 1.4rem; }
 
 // ---------------------------------------------------------------- artwork
 
-.gallery { margin-top: 2rem; }
+.gallery-section {
+  margin-top: 4rem;
+
+  &:first-of-type { margin-top: 2.5rem; }
+}
+
+.gallery-section__title {
+  margin: 0 0 0.9rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--rule);
+  font: 400 0.82rem/1.4 var(--ui);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 2.8rem 2rem;
+  width: min(62rem, 92vw);
+  margin: 2rem 0 0 50%;
+  transform: translateX(-50%);
+}
 
 .work {
-  margin-bottom: 3.5rem;
+  margin: 0;
 
   img { display: block; width: 100%; }
 
@@ -366,6 +389,18 @@ h2 { font-size: 1.4rem; }
     strong { color: var(--ink); font-weight: 500; }
   }
 }
+
+.work__note {
+  display: block;
+  margin-top: 0.25rem;
+  font-style: italic;
+}
+
+@media (max-width: 34rem) {
+  .gallery { grid-template-columns: 1fr; gap: 2.4rem; }
+}
+
+.gallery-section + .gallery-section { margin-top: 5rem; }
 
 // ---------------------------------------------------------------- lists of links
 

@@ -30,9 +30,10 @@ layout: default
   <section class="listing">
     <h2><a href="{{ '/artwork/' | relative_url }}">Artwork</a></h2>
     <div class="strip">
-      {%- for work in site.data.artwork limit: 4 %}
-      <a href="{{ '/artwork/' | relative_url }}#{{ work.slug }}">
-        <img src="{{ '/assets/img/artwork/' | relative_url }}{{ work.slug }}.jpg" alt="{{ work.title }}" loading="lazy">
+      {%- assign featured = "sunrise-over-terraced-hills,siddur-vayechulu-kiddush-cup,marigold-picking,zoe-belle-quilt" | split: "," %}
+      {%- for slug in featured %}
+      <a href="{{ '/artwork/' | relative_url }}#{{ slug }}">
+        <img src="{{ '/assets/img/artwork/' | relative_url }}{{ slug }}.jpg" alt="{{ slug | replace: '-', ' ' }}" loading="lazy">
       </a>
       {%- endfor %}
     </div>
