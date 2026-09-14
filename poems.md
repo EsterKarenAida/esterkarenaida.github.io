@@ -1,21 +1,24 @@
 ---
 title: Poems
 permalink: /poems/
-standfirst: Thirty poems. Published work, poems she finished but never sent out,
-  and drafts.
+standfirst_include: poems-standfirst.html
 ---
 
 {%- assign published = site.poems | where_exp: "p", "p.publication" -%}
 {%- assign unpublished = site.poems | where_exp: "p", "p.publication == nil" -%}
 {%- assign papers = unpublished | where_exp: "p", "p.draft != true" -%}
 {%- assign drafts = unpublished | where: "draft", true -%}
+{%- assign posthumous = published | where: "publication", "The Ilanot Review" -%}
+{%- assign in_life = published | where_exp: "p", "p.publication != 'The Ilanot Review'" -%}
 
 <h2 class="group-heading">Published</h2>
 
 <p class="index-note">
-Five of these were printed by <em>The Ilanot Review</em> after her death, taken
-from an unpublished manuscript; five appeared in her lifetime. Each poem carries
-its original publication at the foot of the page.
+{% capture n %}{% include number-word.html n=posthumous.size %}{% endcapture %}{{ n | capitalize }}
+of these were printed by <em>The Ilanot Review</em> after her death, taken from
+an unpublished manuscript; {% include number-word.html n=in_life.size %}
+appeared in her lifetime. Each poem carries its original publication at the foot
+of the page.
 </p>
 
 <ul class="poem-list">

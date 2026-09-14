@@ -5,6 +5,7 @@ layout: default
   <header class="page__head">
     <h1>{{ page.title }}</h1>
     {%- if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif -%}
+    {%- if page.standfirst_include %}<p class="standfirst">{% include {{ page.standfirst_include }} %}</p>{% endif -%}
   </header>
   {{ content }}
 </article>
