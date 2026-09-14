@@ -1,11 +1,14 @@
 ---
 title: Poems
 permalink: /poems/
-standfirst: Twenty-four poems. Published work, and poems she finished but never sent out.
+standfirst: Thirty poems. Published work, poems she finished but never sent out,
+  and drafts.
 ---
 
 {%- assign published = site.poems | where_exp: "p", "p.publication" -%}
-{%- assign papers = site.poems | where_exp: "p", "p.publication == nil" -%}
+{%- assign unpublished = site.poems | where_exp: "p", "p.publication == nil" -%}
+{%- assign papers = unpublished | where_exp: "p", "p.draft != true" -%}
+{%- assign drafts = unpublished | where: "draft", true -%}
 
 <h2 class="group-heading">Published</h2>
 
@@ -36,6 +39,23 @@ writing.
 
 <ul class="poem-list">
   {%- for poem in papers %}
+  <li>
+    <a href="{{ poem.url | relative_url }}">{{ poem.title }}</a>
+    {%- if poem.opening %}<span class="poem-list__opening">{{ poem.opening }}</span>{% endif -%}
+  </li>
+  {%- endfor %}
+</ul>
+
+<h2 class="group-heading">From her drafts</h2>
+
+<p class="index-note">
+Poems she left in her working folder rather than in the folder she marked
+<em>polished</em>. She may well have gone on changing them. They are here
+because they read whole, and transcribed as she left them.
+</p>
+
+<ul class="poem-list">
+  {%- for poem in drafts %}
   <li>
     <a href="{{ poem.url | relative_url }}">{{ poem.title }}</a>
     {%- if poem.opening %}<span class="poem-list__opening">{{ poem.opening }}</span>{% endif -%}
