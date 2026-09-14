@@ -15,7 +15,7 @@ died: 9 August 2022
 # Fill in one of these to switch on visit counting. GoatCounter sets no
 # cookies and stores no personal data; Google Analytics does both.
 analytics:
-  goatcounter: ""
+  goatcounter: "esterkarenaida"
   google_measurement_id: ""
 
 plugins:
