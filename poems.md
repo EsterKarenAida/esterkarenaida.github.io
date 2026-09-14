@@ -1,7 +1,7 @@
 ---
 title: Poems
 permalink: /poems/
-standfirst: Eighteen poems — published work, and poems she finished but never sent out.
+standfirst: Eighteen poems. Published work, and poems she finished but never sent out.
 ---
 
 {%- assign published = site.poems | where_exp: "p", "p.publication" -%}

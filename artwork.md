@@ -24,7 +24,7 @@ archive of her work is being gathered and scanned, and will be added here.
 </div>
 
 <p class="index-note">
-Prints of some of her designs — alongside work by family members and
-collaborators — remain on her
+Prints of some of her designs, alongside work by family members and
+collaborators, remain on her
 <a href="https://www.redbubble.com/people/EsterKarenAida/shop">Redbubble shop</a>.
 </p>
