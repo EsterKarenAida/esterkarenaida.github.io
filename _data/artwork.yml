@@ -6,50 +6,40 @@
   works:
     - slug: siddur-kabbalat-shabbat-title-page
       title: Kabbalat Shabbat
-      medium: Watercolour and ink on paper
       note: Title page of the Friday night siddur she illustrated
     - slug: siddur-shema-roundel
       title: Shema
-      medium: Watercolour and pencil
       note: From the same siddur
     - slug: siddur-vayechulu-kiddush-cup
       title: Vayechulu
-      medium: Watercolour and gold leaf
       note: The kiddush holding the text, the six days turning around it
     - slug: song-of-songs-page-blue
       title: Shir HaShirim
-      medium: Watercolour and ink
       note: From a Song of Songs she illustrated and translated herself
     - slug: song-of-songs-page-gazelle
       title: Shir HaShirim, the gazelle
-      medium: Watercolour and ink
     - slug: birkat-habanim
       title: Birkat HaBanim
       medium: Print, numbered 7 of 50
       note: Signed Ester Karen Boxenhorn
     - slug: ketubah-wildflowers
       title: Ketubah
-      medium: Watercolour and ink on paper
       note: Made as a wedding gift
     - slug: calligraphy-in-progress
       title: Lettering, unfinished
-      medium: Gouache over pencil
 
 - group: painting
   label: Painting and drawing
   blurb: >
-    Mostly the hills around Jerusalem, mostly painted outdoors, often on
-    whatever paper was to hand.
+    Mostly the hills around Jerusalem, much of it worked outdoors, on whatever
+    paper was to hand.
   works:
     - slug: sunrise-over-terraced-hills
       title: Sunrise over the terraces
-      medium: Oil pastel
     - slug: olives-trotsky-park
       title: Olives at Trotsky Park, opposite Augusta Victoria Hospital
-      medium: Ink and watercolour
     - slug: jerusalem-before-yom-kippur
       title: Jerusalem, before Yom Kippur
-      medium: Watercolour
       year: 2021
     - slug: marigold-picking
       title: Marigold Picking
@@ -64,72 +54,51 @@
       year: 2022
     - slug: park-in-colour
       title: The park in full colour
-      medium: Oil pastel
       year: 2022
     - slug: flowering-orchard-with-cypresses
       title: Orchard in flower
-      medium: Watercolour
     - slug: wooded-park
       title: Under the trees
-      medium: Watercolour
     - slug: garden-structure-among-trees
       title: Shelter among the trees
-      medium: Watercolour
     - slug: fence-and-scrub
       title: Fence and scrub
-      medium: Watercolour
     - slug: misty-valley-with-pylons
       title: Valley with pylons
-      medium: Watercolour
     - slug: judean-desert-with-mast
       title: The desert, looking east
-      medium: Watercolour
     - slug: desert-hillside-storm
       title: Hillside under a storm
-      medium: Watercolour and crayon
     - slug: hills-violet-sky
       title: Hills, violet sky
-      medium: Watercolour and crayon
     - slug: ochre-hillside
       title: Ochre hillside
-      medium: Watercolour and gouache
     - slug: green-hillside
       title: Green hillside
-      medium: Oil pastel
       year: 2021
     - slug: yellow-hill
       title: Yellow hill
-      medium: Oil pastel
     - slug: hills-study
       title: Hills, a study
-      medium: Oil pastel
     - slug: blue-and-gold-sky
       title: Blue and gold
-      medium: Oil pastel
     - slug: valley-wet-in-wet
       title: Valley, wet in wet
-      medium: Watercolour
     - slug: foliage-with-orange-blooms
       title: Leaves and orange flowers
-      medium: Watercolour
     - slug: jug-with-persimmons
       title: Jug and persimmons
-      medium: Watercolour
       year: 2021
     - slug: jug-with-flowers-and-citrus
       title: Jug, flowers and citrus
-      medium: Watercolour
     - slug: flower-study-early
       title: Flower study
-      medium: Watercolour and collage
       note: Signed under her earlier name, so an early piece
     - slug: woman-in-embroidered-thob
       title: Woman in an embroidered thob
-      medium: Oil pastel
       year: 2021
     - slug: woman-in-a-flowering-field
       title: Woman in a flowering field
-      medium: Oil pastel
       note: Painted from a photograph
     - slug: burning-house
       title: Burning House
@@ -144,7 +113,7 @@
       year: 2021
     - slug: figures-among-olives
       title: Figures among the olives
-      medium: Pen on board, unfinished
+      medium: Ink, unfinished
     - slug: brushed-circle
       title: Circle and leaves
       medium: Ink, annotated in her hand
@@ -155,26 +124,26 @@
 - group: cloth
   label: Cloth
   blurb: >
-    She sewed, quilted and embroidered all her life. Most of it went to people
-    rather than walls.
+    She sewed, quilted and embroidered, and most of it went to people rather
+    than walls.
   works:
     - slug: zoe-belle-quilt
       title: Zoë Belle
-      medium: Pieced and embroidered cotton
+      medium: Pieced and embroidered
       year: 2021
     - slug: noahs-ark
       title: The ark, the dove, the bow
       medium: Appliqué
     - slug: eye-and-flames
       title: Eye in flames
-      medium: Appliqué on wool
+      medium: Appliqué
     - slug: moses-intervening-in-a-beating
       title: Moses Intervening in a Beating
       medium: Fabric, hand-worked
       year: 2022
     - slug: crane-panel-door-hanging
       title: Cranes, and a line about Jerusalem
-      medium: Cloth, hung on a door
+      note: Hung on her door
 
 - group: mosaic
   label: Mosaic
@@ -200,7 +169,7 @@
       medium: Collage, with the midrash pasted beneath
     - slug: reclining-figure
       title: Reclining figure
-      medium: Torn tissue
+      medium: Collage
 
 - group: garden
   label: The garden
