@@ -1,7 +1,7 @@
 ---
 title: May Those Who Love You Be Secure
 subtitle: Piyyut before the Ascent to Jerusalem
-opening: A compilation of Robert Frost’s “October” and Psalm 122
+opening: O hushed October morning mild,
 drafted: October 2017
 note: >-
   From the poems she had finished but not yet published. The poem weaves Robert

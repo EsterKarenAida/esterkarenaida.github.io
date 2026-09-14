@@ -7,8 +7,8 @@ standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
 Ester Karen Aida was born Karen Aida Morritt in 1967 and grew up in Newfield,
 New York, near Ithaca. She moved to Israel in 1991. For seven years she lived
 in Tekoa, in the hills south-east of Jerusalem, and later in Jerusalem itself.
-She raised six children. Ester was a name she took for herself after her heart
-transplant; she signed her poems and her art Ester Karen Aida.
+She raised six children. Ester was a name she chose for herself; she signed her
+poems and her art Ester Karen Aida.
 
 <div class="snapshots">
   <figure>

@@ -1,7 +1,7 @@
 ---
 title: Call to Prayer
-subtitle: Parshat Re'eh in The Trauma Unit
-standfirst: A Friday in the trauma unit at Tel Hashomer, written from her phone at the bedside.
+subtitle: Parshat Re’eh in The Trauma Unit
+standfirst: An afternoon in the trauma unit at Tel Hashomer as Shabbat comes on, typed out on her phone at the bedside.
 note: From her papers, unpublished in her lifetime and printed here as she wrote it.
 ---
 

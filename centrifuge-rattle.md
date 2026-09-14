@@ -7,8 +7,8 @@ standfirst: The book she was assembling, in the order she left it.
 <p class="index-note">
 A manuscript she put together and did not publish, gathered around the year
 she spent waiting for a heart and the years after it. The sequence below is
-hers, taken from her typescript. Every poem in it is on this site; this page
-only restores the order.
+hers, taken from her typescript, and each poem in it that is on this site is
+linked below in her order.
 </p>
 
 {%- assign sequence = site.poems | where_exp: "p", "p.manuscript_order" | sort: "manuscript_order" -%}

@@ -2,7 +2,7 @@
 title: A Little Mountain
 opening: When you say I saw Shubert
 manuscript: Centrifuge Rattle
-manuscript_order: 8
+manuscript_order: 9
 note: >-
   From the poems she had finished but not yet published. Transcribed from her
   typescript.

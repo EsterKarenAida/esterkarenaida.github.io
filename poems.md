@@ -4,10 +4,10 @@ permalink: /poems/
 standfirst_include: poems-standfirst.html
 ---
 
-{%- assign published = site.poems | where_exp: "p", "p.publication" -%}
+{%- assign published = site.poems | where_exp: "p", "p.publication" | sort_natural: "title" -%}
 {%- assign unpublished = site.poems | where_exp: "p", "p.publication == nil" -%}
-{%- assign papers = unpublished | where_exp: "p", "p.draft != true" -%}
-{%- assign drafts = unpublished | where: "draft", true -%}
+{%- assign papers = unpublished | where_exp: "p", "p.draft != true" | sort_natural: "title" -%}
+{%- assign drafts = unpublished | where: "draft", true | sort_natural: "title" -%}
 {%- assign posthumous = published | where: "publication", "The Ilanot Review" -%}
 {%- assign in_life = published | where_exp: "p", "p.publication != 'The Ilanot Review'" -%}
 

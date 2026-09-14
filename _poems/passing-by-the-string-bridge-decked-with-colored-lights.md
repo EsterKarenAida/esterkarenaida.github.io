@@ -6,6 +6,7 @@ publication: Jerusalem Poems, Michael Dickel
 published_year: 2018
 drafted: December 2017
 manuscript: Centrifuge Rattle
+manuscript_order: 5
 url_source: https://michaeldickel.info/2018/12/16/jerusalem-poems-aida/
 ---
 

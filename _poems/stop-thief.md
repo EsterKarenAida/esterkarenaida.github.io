@@ -3,7 +3,7 @@ title: Stop, Thief
 opening: you forgot a pocket
 drafted: November 2017
 manuscript: Centrifuge Rattle
-manuscript_order: 7
+manuscript_order: 8
 note: From the poems she had finished but not yet published.
 ---
 
@@ -22,7 +22,7 @@ so much I begin
 to croon to them)
 
 Paradox, welcome.
-Haida, Anasazi.
+Haida, Anisazi.
 
 Seraph or monkey-fiend!
 Stele-like etched

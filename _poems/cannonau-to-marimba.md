@@ -1,7 +1,6 @@
 ---
 title: Cannonau to Marimba
 opening: I try on a lavender down coat Mom brings
-manuscript: Centrifuge Rattle
 note: >-
   From the poems she had finished but not yet published. The poem is set at
   Purim, at the reading of the Book of Esther, in the first months of the

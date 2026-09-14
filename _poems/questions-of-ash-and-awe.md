@@ -2,7 +2,7 @@
 title: Questions of Ash and Awe
 opening: Canst thou bind the chains of the Pleiades
 manuscript: Centrifuge Rattle
-manuscript_order: 12
+manuscript_order: 13
 note: >-
   From the poems she had finished but not yet published. Her own notes give the
   sources: Job 38, Lamentations, Proverbs, the Talmud, Laotzu in Witter
@@ -91,7 +91,7 @@ Handle a large kingdom with as gentle a touch as if you were cooking small fish.
 
 Why don’t weeds need to be watered?
 
-Do you mean that during this year of Rest for the Land, I can harvest the mustard greens? But he can’t dig them out of his pepper bed?
+Do you mean that during this year of Rest for the Land, I can harvest Neil’s mustard greens? But he can’t dig them out of his pepper bed?
 
 Take rest: a field that has rested gives a bountiful crop.
 

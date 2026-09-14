@@ -1,6 +1,6 @@
 ---
 title: Come Winter
-subtitle: צוהר תעשה לתיבה — for our parents
+subtitle: צוהר תעשה לתיבה, for our parents
 opening: Who planted this tree? Who tends it still?
 drafted: May 2020
 note: From the poems she had finished but not yet published.

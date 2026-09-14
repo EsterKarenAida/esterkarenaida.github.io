@@ -2,7 +2,7 @@
 title: Venice Glass-Shop
 opening: When I stood before a podium to
 manuscript: Centrifuge Rattle
-manuscript_order: 5
+manuscript_order: 6
 note: >-
   From the poems she had finished but not yet published. A sonnet, transcribed
   from her typescript.

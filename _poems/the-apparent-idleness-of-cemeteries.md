@@ -3,7 +3,7 @@ title: The Apparent Idleness of Cemeteries
 opening: I choose a world in which crimson sheets
 drafted: August 2018
 manuscript: Centrifuge Rattle
-manuscript_order: 11
+manuscript_order: 12
 note: >-
   From the poems she had finished but not yet published. Her notes cite
   S. Patterson, “The Place in this Poem,” and Hart Crane, “The Hive.”
