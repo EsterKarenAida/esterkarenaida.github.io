@@ -69,5 +69,4 @@ that she “supported peace in the region here with words and deeds, helped
 individuals in need, and encouraged NVC training.”
 
 On 9 August 2022, during what should have been a simple catheterization
-procedure, the borrowed heart gave out. Her funeral was held in Jerusalem that
-evening.
+procedure, the borrowed heart gave out. She was buried in Jerusalem.
