@@ -4,8 +4,10 @@ permalink: /life/
 standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
 ---
 
-She was born Karen Aida Morritt in 1967 and lived most of her adult life in
-Jerusalem, for seven years of it in Tekoa. She studied in the Shaindy Rudoff
+She was born Karen Aida Morritt in 1967 and grew up in Newfield, New York, near
+Ithaca. She moved to Israel in 1991 and lived the rest of her life there —
+seven years of it in Tekoa, in the hills south-east of Jerusalem, and the rest
+in Jerusalem itself. She studied in the Shaindy Rudoff
 Graduate Program in Creative Writing at Bar-Ilan University, where she and Jane
 Medved became the first poetry editors of *The Ilanot Review*; she was a visual
 artist as well, and designed the journal’s covers while it was still printed on
@@ -55,7 +57,7 @@ sector in coordination with NVC – Bethlehem. A mother of six, she lives in
 Jerusalem.</p>
 </blockquote>
 
-She wrote through fourteen years of illness and disability without making
+She wrote through fourteen years of illness and intervention without making
 illness the whole of the subject: the poems keep their attention on the bus, the
 gallery, the community garden, the shop full of embroidered dresses, the other
 people in the ward. Her poems and essays appeared in *The BeZine* and on Michael
