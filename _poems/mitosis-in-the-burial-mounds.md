@@ -1,11 +1,14 @@
 ---
-published_url: https://thebezine.com/portfolio/mitosis-burial-mounds/ 
-published_text: The Bezine
+title: Mitosis in the Burial Mounds
+opening: In my body rattle the dead
+publication: The BeZine
+published_year: 2022
+url_source: https://thebezine.com/portfolio/mitosis-burial-mounds/
 ---
 
 In my body rattle the dead
 like beads shook-up with longing
-in Rachel’s ovaries. 
+in Rachel’s ovaries.
 
 Oleander, calendula or olive,
 Only the living sow memory,
@@ -27,24 +30,24 @@ What is your heart’s fruition?
 where exactly are you now,
 *Neshama sheli*?
 
-I think I should ask your 
-home-town Sheikh, who wrote, 
+I think I should ask your
+home-town Sheikh, who wrote,
 organ donation will be *halal*.
 
-I ask my heart: do you hold 
-two souls? We’ve cradled one 
+I ask my heart: do you hold
+two souls? We’ve cradled one
 another, not months, but years;
 
 should time condense to tissue,
 This, then?  —a culture unfolding,
-beating its wings, in another. 
+beating its wings, in another.
 
 —and we all hold our parents.
 Do I contain four souls—
 No, her parents—six?
 
-My heart is splitting 
-And living. 
+My heart is splitting
+And living.
 
 This heart—what does it mean to you?
 Shireen’s question
@@ -61,11 +64,10 @@ How old are you now?
 What have the years been for you?
 Who has cared for you?
 
-We used to tell 
-the younger ones, stay together 
+We used to tell
+the younger ones, stay together
 and take care of each other
 
-But our children begin 
-by scanning the fields 
+But our children begin
+by scanning the fields
 for a few stalks of kindness.
-

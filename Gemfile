@@ -8,8 +8,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll-theme-cayman", "~> 0.2.0"
-
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 227", group: :jekyll_plugins
 
