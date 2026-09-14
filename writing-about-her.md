@@ -25,12 +25,13 @@ standfirst: Memorials, an issue dedication, and two films.
   </li>
   <li>
     <a href="http://www.ilanotreview.com/wp-content/uploads/2021/02/The-Ilanot-Review_Spring-Issue-2011-Final-Zeev-Raban.pdf">The Ilanot Review, Spring 2011</a>
-    <span class="links__meta">PDF — the masthead lists her as poetry editor, under her earlier
-    name, Karen Boxenhorn.</span>
+    <span class="links__meta">PDF — the masthead lists her as poetry editor, under a married
+    name she later set aside.</span>
   </li>
   <li>
-    <a href="https://www.youtube.com/watch?v=YqqYfEc6oWs">A New Heart: Karen Boxenhorn</a>
-    <span class="links__meta">Hadassah — on her transplant.</span>
+    <a href="https://www.youtube.com/watch?v=YqqYfEc6oWs">A New Heart</a>
+    <span class="links__meta">Hadassah — on her transplant, filmed before she took the name
+    Ester.</span>
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=FsbzrLTn_E4">Prof. Oz Shapira — Thanks from the Heart</a>

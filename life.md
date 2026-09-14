@@ -1,10 +1,10 @@
 ---
 title: Her life
 permalink: /life/
-standfirst: Karen Boxenhorn, 1967 – 9 August 2022.
+standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
 ---
 
-She was born Karen Boxenhorn in 1967 and lived most of her adult life in
+She was born Karen Aida Morritt in 1967 and lived most of her adult life in
 Jerusalem, for seven years of it in Tekoa. She studied in the Shaindy Rudoff
 Graduate Program in Creative Writing at Bar-Ilan University, where she and Jane
 Medved became the first poetry editors of *The Ilanot Review*; she was a visual
@@ -14,8 +14,10 @@ paper.
 Her heart failed while she was still a student. She waited months in hospital
 for a transplant — one of her graduate classes met in the lounge of the
 transplant ward at Hadassah — and the heart she received came from a Palestinian
-woman. She took the name Ester Karen Aida afterwards, for the life that followed
-it, and turned to compassionate communication between Arabs and Jews: in 2017
+woman. Ester was a name she chose for herself afterwards, for the life that
+followed; she signed her poems and her art Ester Karen Aida, her own names with
+the surname she was born to. She turned to compassionate communication between
+Arabs and Jews: in 2017
 she spent nine days in Beit Jala at an international training in Non-Violent
 Communication, which she wrote about in
 [Empathy Cafe](https://thebezine.com/portfolio/empathy-cafe-ester-karen-aida/),
