@@ -3,10 +3,9 @@ layout: home
 title: Ester Karen Aida
 ---
 
-Ester Karen Aida was a poet and artist in Jerusalem who worked for peace
-between Arabs and Jews in the city she lived in. She wrote out of Jewish
-wisdom and an argumentative faith, out of the streets and galleries and buses
-she moved through, and out of a close attention to the people beside her.
+Ester Karen Aida was a poet and artist in Jerusalem. She wrote, painted,
+embroidered and made things by hand for most of her life, raised six children,
+and worked for peace between Arabs and Jews in the city she lived in.
 
 This site gathers her published poems, the poems she finished and kept in her
 own folders, her paintings, drawings and embroidery,

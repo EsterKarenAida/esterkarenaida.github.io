@@ -5,10 +5,11 @@ standfirst: Seven works, as published with her final poems in The BeZine.
 ---
 
 <p class="index-note">
-She painted, drew, embroidered and worked in appliqué, and designed the first
-printed covers of <em>The Ilanot Review</em>. The seven pieces below are the ones
-published with titles and dates in her lifetime or immediately after. A larger
-archive of her work is being gathered and scanned, and will be added here.
+She painted, drew, embroidered, sewed, knitted, worked in calligraphy and
+pieced mosaics from ceramic shards, and she designed the first printed covers
+of <em>The Ilanot Review</em>. The seven pieces below are the ones published
+with titles and dates in her lifetime or immediately after. A larger archive of
+her work is being gathered and scanned, and will be added here.
 </p>
 
 <div class="gallery">
