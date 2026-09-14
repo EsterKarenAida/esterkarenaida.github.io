@@ -39,12 +39,7 @@ standfirst: Memorials, an issue dedication, and two films.
   </li>
 </ul>
 
-<h2>Her own prose</h2>
-
-<ul class="links">
-  <li>
-    <a href="https://thebezine.com/portfolio/empathy-cafe-ester-karen-aida/">Empathy Cafe: A Letter to an American Friend</a>
-    <span class="links__meta"><em>The BeZine</em>, 2021, written in 2017. Nine days of Nonviolent
-    Communication training in Beit Jala.</span>
-  </li>
-</ul>
+<p class="index-note">
+Her own essays are on the <a href="{{ '/prose/' | relative_url }}">prose</a>
+page.
+</p>

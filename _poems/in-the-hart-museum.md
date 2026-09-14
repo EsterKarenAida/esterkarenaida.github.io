@@ -6,6 +6,7 @@ publication: The Ilanot Review
 published_year: 2022
 drafted: February 2018
 manuscript: Centrifuge Rattle
+manuscript_order: 13
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
 note: Printed in the “Want” issue after her death.
 ---

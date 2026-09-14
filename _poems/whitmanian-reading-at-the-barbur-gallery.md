@@ -4,6 +4,7 @@ opening: You are studying seven kinds of obliviousness
 publication: The Ilanot Review
 published_year: 2022
 manuscript: Centrifuge Rattle
+manuscript_order: 3
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
 note: Printed in the “Want” issue after her death.
 ---

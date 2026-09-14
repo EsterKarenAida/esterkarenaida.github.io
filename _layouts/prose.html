@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="prose">
+  <header class="prose__head">
+    <h1>{{ page.title }}</h1>
+    {%- if page.subtitle %}<p class="prose__subtitle">{{ page.subtitle }}</p>{% endif -%}
+    {%- if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif -%}
+  </header>
+
+  <div class="prose__body">
+    {{ content }}
+  </div>
+
+  <footer class="poem__note">
+    {%- if page.publication -%}
+      <p>
+        First published in
+        {%- if page.url_source %} <a href="{{ page.url_source }}">{{ page.publication }}</a>
+        {%- else %} {{ page.publication }}{% endif -%}
+        {%- if page.published_year %}, {{ page.published_year }}{% endif -%}.
+      </p>
+    {%- endif -%}
+    {%- if page.written -%}
+      <p>Written {{ page.written }}.</p>
+    {%- endif -%}
+    {%- if page.note %}<p>{{ page.note }}</p>{% endif -%}
+  </footer>
+
+  <nav class="poem__nav">
+    <a href="{{ '/prose/' | relative_url }}">All prose</a>
+  </nav>
+</article>

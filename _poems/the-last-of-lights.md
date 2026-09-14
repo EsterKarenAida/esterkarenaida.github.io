@@ -5,6 +5,7 @@ opening: You can imagine the fabric washes its color
 publication: The Ilanot Review
 published_year: 2022
 manuscript: Centrifuge Rattle
+manuscript_order: 4
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
 note: >-
   Printed in the “Want” issue after her death.

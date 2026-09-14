@@ -2,6 +2,7 @@
 title: To the Soldiers of the Great War
 opening: If I had only made you love me, I could not have saved you.
 manuscript: Centrifuge Rattle
+manuscript_order: 10
 note: >-
   From the poems she had finished but not yet published. Her own notes: “Yom
   Asel, Yom Basel” is an Arabic expression, one day honey, the next, onions;

@@ -61,7 +61,7 @@ Jerusalem.</p>
 
 In 2017 she spent nine days in Beit Jala at an international training in
 Nonviolent Communication, and wrote about it in
-[Empathy Cafe](https://thebezine.com/portfolio/empathy-cafe-ester-karen-aida/),
+[Empathy Cafe]({{ '/prose/empathy-cafe.html' | relative_url }}),
 a letter to an American friend. Michael Dickel, who knew her from Jerusalem
 poetry events, wrote
 [after her death](https://thebezine.com/2022/08/11/in-memoriam-contributor-ester-karen-aida/)

@@ -3,6 +3,7 @@ title: Stop, Thief
 opening: you forgot a pocket
 drafted: November 2017
 manuscript: Centrifuge Rattle
+manuscript_order: 7
 note: From the poems she had finished but not yet published.
 ---
 

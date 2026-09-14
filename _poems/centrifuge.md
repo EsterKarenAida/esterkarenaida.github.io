@@ -2,6 +2,7 @@
 title: Centrifuge
 opening: Post-transplant my blood raged
 manuscript: Centrifuge Rattle
+manuscript_order: 2
 spaced: true
 note: >-
   The title sequence of her manuscript, written out of the year she spent in

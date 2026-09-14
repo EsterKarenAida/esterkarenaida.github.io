@@ -11,6 +11,13 @@ standfirst_include: poems-standfirst.html
 {%- assign posthumous = published | where: "publication", "The Ilanot Review" -%}
 {%- assign in_life = published | where_exp: "p", "p.publication != 'The Ilanot Review'" -%}
 
+<p class="index-note index-note--lead">
+{%- assign sequence = site.poems | where_exp: "p", "p.manuscript_order" -%}
+{% capture seq_n %}{% include number-word.html n=sequence.size %}{% endcapture %}{{ seq_n | capitalize }} of them belong to
+<a href="{{ '/centrifuge-rattle/' | relative_url }}"><em>Centrifuge Rattle</em></a>,
+the book she was assembling, which can be read in her own order.
+</p>
+
 <h2 class="group-heading">Published</h2>
 
 <p class="index-note">

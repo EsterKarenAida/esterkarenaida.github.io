@@ -5,6 +5,7 @@ publication: The BeZine
 published_year: 2022
 drafted: April 2017
 manuscript: Centrifuge Rattle
+manuscript_order: 1
 url_source: https://thebezine.com/portfolio/mitosis-burial-mounds/
 ---
 

@@ -293,6 +293,62 @@ h2 { font-size: 1.4rem; }
   color: var(--ochre);
 }
 
+// ---------------------------------------------------------------- prose
+
+.prose__head { margin: 2.5rem 0 2.2rem; text-align: center; }
+
+.prose__subtitle {
+  margin: 0.5rem 0 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.prose__body {
+  p { margin: 0 0 1.5rem; }
+
+  blockquote {
+    margin: 0 0 1.5rem;
+    padding-left: 1.4rem;
+    border-left: 2px solid var(--rule);
+    font-style: italic;
+    color: var(--muted);
+
+    p { margin: 0; }
+  }
+}
+
+.prose__figure {
+  margin: 2.5rem auto;
+  max-width: 22rem;
+
+  img { display: block; width: 100%; }
+
+  figcaption {
+    margin-top: 0.6rem;
+    font: 400 0.78rem/1.6 var(--ui);
+    color: var(--muted);
+
+    strong { color: var(--ink); font-weight: 500; }
+  }
+}
+
+.sequence {
+  margin: 0;
+  padding-left: 1.6rem;
+  color: var(--muted);
+
+  li { margin-bottom: 1rem; }
+
+  a { text-decoration: none; color: var(--ink); }
+  a:hover { text-decoration: underline; }
+}
+
+.index-note--lead {
+  margin-bottom: 3rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid var(--rule);
+}
+
 // ---------------------------------------------------------------- artwork
 
 .gallery { margin-top: 2rem; }

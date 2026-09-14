@@ -2,6 +2,7 @@
 title: Questions of Ash and Awe
 opening: Canst thou bind the chains of the Pleiades
 manuscript: Centrifuge Rattle
+manuscript_order: 12
 note: >-
   From the poems she had finished but not yet published. Her own notes give the
   sources: Job 38, Lamentations, Proverbs, the Talmud, Laotzu in Witter

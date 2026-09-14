@@ -27,6 +27,10 @@ collections:
     output: true
     permalink: /poems/:title.html
     sort_by: title
+  prose:
+    output: true
+    permalink: /prose/:title.html
+    sort_by: title
 
 defaults:
   - scope:
@@ -34,6 +38,11 @@ defaults:
       type: poems
     values:
       layout: poem
+  - scope:
+      path: ""
+      type: prose
+    values:
+      layout: prose
   - scope:
       path: ""
     values:

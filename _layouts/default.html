@@ -24,7 +24,7 @@
       <p class="masthead__name"><a href="{{ '/' | relative_url }}">Ester Karen Aida</a></p>
       <p class="masthead__dates">{{ site.born }} – 2022</p>
       <nav class="nav" aria-label="Main">
-        {%- assign nav = "/poems/,Poems|/artwork/,Artwork|/life/,Her life|/writing-about-her/,Written about her" | split: "|" -%}
+        {%- assign nav = "/poems/,Poems|/prose/,Prose|/artwork/,Artwork|/life/,Her life|/writing-about-her/,Written about her" | split: "|" -%}
         {%- for item in nav -%}
           {%- assign parts = item | split: "," -%}
           <a href="{{ parts[0] | relative_url }}"{% if page.url contains parts[0] %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
