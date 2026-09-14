@@ -1,27 +1,40 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <a href="https://www.redbubble.com/people/EsterKarenAida/shop" class="btn" target="_blank" rel=noopener rel=noreferrer>Redbubble Shop</a>
-        <a href="https://thebezine.com/?s=Ester+Karen+Aida" class="btn" target="_blank" rel=noopener rel=noreferrer>The BeZine</a>
-        <a href="https://pin.it/5FKPIDM" class="btn" target="_blank" rel=noopener rel=noreferrer>Pinterest</a>
-    </header>
-
-    <main id="content" class="main-content" role="main">
+---
+layout: default
+---
+<div class="home">
+  <section class="opening">
+    <blockquote class="epigraph">
+      <p>My heart is splitting<br>And living.</p>
+      <cite><a href="{{ '/poems/mitosis-in-the-burial-mounds.html' | relative_url }}">Mitosis in the Burial Mounds</a></cite>
+    </blockquote>
+    <div class="opening__text">
+      <img class="portrait" src="{{ '/assets/img/photos/portrait.jpg' | relative_url }}"
+           alt="Ester Karen Aida, 2018" width="180" height="180">
       {{ content }}
+    </div>
+  </section>
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
-        {% endif %}
-      </footer>
-    </main>
-  </body>
-</html>
+  <section class="listing">
+    <h2><a href="{{ '/poems/' | relative_url }}">Poems</a></h2>
+    <ul class="poem-list">
+      {%- for poem in site.poems limit: 6 %}
+      <li>
+        <a href="{{ poem.url | relative_url }}">{{ poem.title }}</a>
+        {%- if poem.opening %}<span class="poem-list__opening">{{ poem.opening }}</span>{% endif -%}
+      </li>
+      {%- endfor %}
+    </ul>
+    <p class="more"><a href="{{ '/poems/' | relative_url }}">All {{ site.poems | size }} poems</a></p>
+  </section>
+
+  <section class="listing">
+    <h2><a href="{{ '/artwork/' | relative_url }}">Artwork</a></h2>
+    <div class="strip">
+      {%- for work in site.data.artwork limit: 4 %}
+      <a href="{{ '/artwork/' | relative_url }}#{{ work.slug }}">
+        <img src="{{ '/assets/img/artwork/' | relative_url }}{{ work.slug }}.jpg" alt="{{ work.title }}" loading="lazy">
+      </a>
+      {%- endfor %}
+    </div>
+  </section>
+</div>

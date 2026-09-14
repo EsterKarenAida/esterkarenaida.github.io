@@ -1,29 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Ester Karen Aida
 ---
 
-# Ester Karen Aida
+Ester Karen Aida was a poet, artist and peace activist in Jerusalem. She wrote
+about the city she walked through, the hospital wards she waited in, and the
+heart she was given by a Palestinian woman — a gift that led her to ask, in one
+of her last poems, whether she now held two souls.
 
-## Welcome
-Welcome to Ester Karen Aida’s Memorial Site
-
-## Poems
-<ul>
-  {% for poem in site.poems %}
-    <li>
-      <a href="{{ poem.url }}">{{ poem.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-## Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+This site gathers her published poems, her paintings, drawings and embroidery,
+and the writing others have left about her. It is added to as more of her work
+comes out of boxes and folders.

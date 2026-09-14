@@ -1,37 +1,29 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
-<head>
-    {% include head-custom.html %}
-</head>
-<body class="poem-body">
-<a id="skip-to-content" href="#content">Skip to the content.</a>
-
-<header class="page-header" role="banner">
-    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline
-        }}</h2>
-    {% if page.published_url and page.published_text %}
-    <a href="/" class="btn">Home</a>
-    <a href="{{ page.published_url }}" class="btn" target="_blank" rel=noopener rel=noreferrer>View on {{ page.published_text }}</a>
-    {% endif %}
-</header>
-
-<main id="content" class="main-content" role="main">
+---
+layout: default
+---
+<article class="poem">
+  <header class="poem__head">
     <h1>{{ page.title }}</h1>
-    <i>By Ester Karen Aida</i>
-    {% if page.published_url and page.published_text %}
-    | Published in
-    <a href="{{ page.published_url }}" target="_blank" rel=noopener rel=noreferrer>
-        {{ page.published_text }}
-    </a>, {{ page.date | date: "%B %d, %Y" }}
-    {% endif %}
-    <br/>
-    <br/>
-    {{ content }}
+    {%- if page.subtitle %}<p class="poem__subtitle">{{ page.subtitle }}</p>{% endif -%}
+  </header>
 
-    <footer class="site-footer">
-        <span class="site-footer-credits"><a href="/">Back Home</a></span>
-    </footer>
-</main>
-</body>
-</html>
+  <div class="poem__body">
+    {{ content }}
+  </div>
+
+  <footer class="poem__note">
+    {%- if page.publication -%}
+      <p>
+        First published in
+        {%- if page.url_source %} <a href="{{ page.url_source }}">{{ page.publication }}</a>
+        {%- else %} {{ page.publication }}{% endif -%}
+        {%- if page.published_year %}, {{ page.published_year }}{% endif -%}.
+      </p>
+    {%- endif -%}
+    {%- if page.note %}<p>{{ page.note }}</p>{% endif -%}
+  </footer>
+
+  <nav class="poem__nav">
+    <a href="{{ '/poems/' | relative_url }}">All poems</a>
+  </nav>
+</article>
