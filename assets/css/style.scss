@@ -235,6 +235,9 @@ h2 { font-size: 1.4rem; }
 
 .poem__body .prose p { white-space: normal; }
 
+// A few poems are laid out across the page and keep their spacing.
+.poem__body--spaced p { white-space: pre-wrap; }
+
 .poem__note {
   margin-top: 3rem;
   padding-top: 1.2rem;

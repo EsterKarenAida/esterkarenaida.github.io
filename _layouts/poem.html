@@ -7,7 +7,7 @@ layout: default
     {%- if page.subtitle %}<p class="poem__subtitle">{{ page.subtitle }}</p>{% endif -%}
   </header>
 
-  <div class="poem__body">
+  <div class="poem__body{% if page.spaced %} poem__body--spaced{% endif %}">
     {{ content }}
   </div>
 
