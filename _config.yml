@@ -14,6 +14,7 @@ died: 9 August 2022
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   poems:
