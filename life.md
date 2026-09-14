@@ -44,6 +44,15 @@ a letter to an American friend.
   </figure>
 </div>
 
+She described herself, in a note she kept with her poems, simply:
+
+<blockquote class="acknowledgements">
+<p>Ester Karen Aida received the gift of a heart transplant in Jerusalem from a
+Palestinian mom in 2009. She has arranged dialogue meetings for the Dati-Leumi
+sector in coordination with NVC – Bethlehem. A mother of six, she lives in
+Jerusalem.</p>
+</blockquote>
+
 She wrote through fourteen years of illness and disability without making
 illness the whole of the subject: the poems keep their attention on the bus, the
 gallery, the community garden, the shop full of embroidered dresses, the other

@@ -258,6 +258,38 @@ h2 { font-size: 1.4rem; }
   font-size: 0.98rem;
 }
 
+.acknowledgements {
+  margin: 0 0 1rem;
+  padding-left: 1.4rem;
+  border-left: 2px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.98rem;
+
+  p { margin-bottom: 1rem; }
+  p:last-child { margin-bottom: 0; }
+}
+
+.group-heading {
+  margin: 3.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+  font: 400 0.82rem/1 var(--ui);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+
+  &:first-of-type { margin-top: 0; }
+}
+
+// Roman numerals marking a poem's sections.
+.poem__body p > strong:only-child {
+  display: block;
+  margin-bottom: -0.6rem;
+  font: 400 0.95rem/1 var(--ui);
+  letter-spacing: 0.18em;
+  color: var(--ochre);
+}
+
 // ---------------------------------------------------------------- artwork
 
 .gallery { margin-top: 2rem; }

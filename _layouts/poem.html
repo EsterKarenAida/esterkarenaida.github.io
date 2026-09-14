@@ -20,6 +20,12 @@ layout: default
         {%- if page.published_year %}, {{ page.published_year }}{% endif -%}.
       </p>
     {%- endif -%}
+    {%- if page.manuscript -%}
+      <p>Collected in her manuscript <em>{{ page.manuscript }}</em>.</p>
+    {%- endif -%}
+    {%- if page.drafted -%}
+      <p>Her file for this poem dates from {{ page.drafted }}.</p>
+    {%- endif -%}
     {%- if page.note %}<p>{{ page.note }}</p>{% endif -%}
   </footer>
 

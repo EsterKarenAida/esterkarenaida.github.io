@@ -4,6 +4,8 @@ subtitle: On the Way to Menahem’s Shiur
 opening: You uncapped your gold pen to thousands of gel-particles
 publication: Jerusalem Poems, Michael Dickel
 published_year: 2018
+drafted: December 2017
+manuscript: Centrifuge Rattle
 url_source: https://michaeldickel.info/2018/12/16/jerusalem-poems-aida/
 ---
 

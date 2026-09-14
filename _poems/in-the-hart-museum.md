@@ -4,8 +4,10 @@ subtitle: Ekphrastic on a Photograph
 opening: I know from my experience of myself
 publication: The Ilanot Review
 published_year: 2022
+drafted: February 2018
+manuscript: Centrifuge Rattle
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
-note: From an unpublished manuscript, printed in the “Want” issue after her death.
+note: Printed in the “Want” issue after her death.
 ---
 
 I know from my experience of myself

@@ -3,6 +3,8 @@ title: Mitosis in the Burial Mounds
 opening: In my body rattle the dead
 publication: The BeZine
 published_year: 2022
+drafted: April 2017
+manuscript: Centrifuge Rattle
 url_source: https://thebezine.com/portfolio/mitosis-burial-mounds/
 ---
 

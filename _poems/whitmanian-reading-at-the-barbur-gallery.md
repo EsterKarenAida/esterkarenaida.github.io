@@ -3,8 +3,9 @@ title: Whitmanian Reading at the Barbur Gallery
 opening: You are studying seven kinds of obliviousness
 publication: The Ilanot Review
 published_year: 2022
+manuscript: Centrifuge Rattle
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
-note: From an unpublished manuscript, printed in the “Want” issue after her death.
+note: Printed in the “Want” issue after her death.
 ---
 
 You are studying seven kinds of obliviousness

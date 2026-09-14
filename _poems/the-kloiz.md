@@ -3,8 +3,10 @@ title: The Kloiz
 opening: Spent the day considering
 publication: The Ilanot Review
 published_year: 2022
+drafted: December 2016
+manuscript: Centrifuge Rattle
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
-note: From an unpublished manuscript, printed in the “Want” issue after her death.
+note: Printed in the “Want” issue after her death.
 ---
 
 Spent the day considering

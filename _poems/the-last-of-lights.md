@@ -4,9 +4,10 @@ subtitle: Hanukka 2017
 opening: You can imagine the fabric washes its color
 publication: The Ilanot Review
 published_year: 2022
+manuscript: Centrifuge Rattle
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
 note: >-
-  From an unpublished manuscript, printed in the “Want” issue after her death.
+  Printed in the “Want” issue after her death.
   An earlier version of the poem appeared in Michael Dickel’s
   <a href="https://michaeldickel.info/2018/12/16/jerusalem-poems-aida/">Jerusalem Poems</a>, 2018.
 ---

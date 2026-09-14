@@ -3,9 +3,10 @@ title: Bus Passing the Khan Theater
 opening: you renga me up from a separate star
 publication: The Ilanot Review
 published_year: 2022
+manuscript: Centrifuge Rattle
 url_source: http://www.ilanotreview.com/want/memoriam-ester-karen-aida/
 note: >-
-  From an unpublished manuscript, printed in the “Want” issue after her death.
+  Printed in the “Want” issue after her death.
   Quotation from S. Patterson, “In Theory,” The BeZine, 2021.
 ---
 
