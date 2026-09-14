@@ -3,10 +3,10 @@ layout: home
 title: Ester Karen Aida
 ---
 
-Ester Karen Aida was a poet, artist and peace activist in Jerusalem. She wrote
-about the city she walked through, the hospital wards she waited in, and the
-heart she was given by a Palestinian woman — a gift that led her to ask, in one
-of her last poems, whether she now held two souls.
+Ester Karen Aida was a poet and artist in Jerusalem, and worked for peace
+between Arabs and Jews in the city she lived in. She wrote out of Jewish
+wisdom and an argumentative faith, out of the streets and galleries and buses
+she moved through, and out of a steady attention to the people beside her.
 
 This site gathers her published poems, the poems she finished and kept in her
 own folders, her paintings, drawings and embroidery,

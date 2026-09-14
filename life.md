@@ -4,26 +4,22 @@ permalink: /life/
 standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
 ---
 
-She was born Karen Aida Morritt in 1967 and grew up in Newfield, New York, near
-Ithaca. She moved to Israel in 1991 and lived the rest of her life there —
-seven years of it in Tekoa, in the hills south-east of Jerusalem, and the rest
-in Jerusalem itself. She studied in the Shaindy Rudoff
-Graduate Program in Creative Writing at Bar-Ilan University, where she and Jane
-Medved became the first poetry editors of *The Ilanot Review*; she was a visual
-artist as well, and designed the journal’s covers while it was still printed on
-paper.
+Ester Karen Aida was a poet and a visual artist in Jerusalem. She painted,
+drew, embroidered and wrote, and she worked for peace between Arabs and Jews in
+the city she lived in — words and deeds both, as Michael Dickel put it: helping
+individuals in need, arranging dialogue meetings, teaching and encouraging
+Nonviolent Communication.
 
-Her heart failed while she was still a student. She waited months in hospital
-for a transplant — one of her graduate classes met in the lounge of the
-transplant ward at Hadassah — and the heart she received came from a Palestinian
-woman. Ester was a name she chose for herself afterwards, for the life that
-followed; she signed her poems and her art Ester Karen Aida, her own names with
-the surname she was born to. She turned to compassionate communication between
-Arabs and Jews: in 2017
-she spent nine days in Beit Jala at an international training in Non-Violent
-Communication, which she wrote about in
-[Empathy Cafe](https://thebezine.com/portfolio/empathy-cafe-ester-karen-aida/),
-a letter to an American friend.
+She was born Karen Aida Morritt in 1967 and grew up in Newfield, New York, near
+Ithaca. She moved to Israel in 1991 and lived the rest of her life there, seven
+years of it in Tekoa, in the hills south-east of Jerusalem, and the rest in
+Jerusalem itself. She studied in the Shaindy Rudoff Graduate Program in
+Creative Writing at Bar-Ilan University, where she and Jane Medved became the
+first poetry editors of *The Ilanot Review*; she was a visual artist as well,
+and designed the journal’s covers while it was still printed on paper. Ester
+was a name she chose for herself later, for the life that followed her heart
+transplant; she signed her poems and her art Ester Karen Aida, her own names
+with the surname she was born to.
 
 <div class="snapshots">
   <figure>
@@ -48,6 +44,31 @@ a letter to an American friend.
   </figure>
 </div>
 
+Her work draws, as Jane Medved wrote, on her connection to Jewish wisdom and
+her faith in the Creator of the Universe — *Is it any different with you, God?*
+she asks in “In the Hart Museum” — and it maps the soul’s journey through
+unlikely friendships and the tests of love. She never loses her awareness of
+how other people move through the world alongside her: the baby shrieking on
+the bus, the shopkeepers in Bethlehem turning off the Christmas lights, the
+woman she wants to buy an embroidered dress with.
+
+She belonged to Jerusalem’s poetry life — readings in galleries, the
+Jerusalism community, the Shaindy Rudoff programme she never really left — and
+that is where her friendships were made. Dickel first met her at a gallery
+reading, in a wheelchair and, he wrote, “active, engaged, and cheerful”; she
+went from wheelchair to walker to cane over the years he knew her. She wrote
+and showed her work from inside fourteen years of physical struggle and
+intervention without letting it become the whole of her subject. Her poems and
+essays appeared in *The BeZine* and on Dickel’s *Meta/Phor(e)/Play*, her
+paintings, drawings and needlework alongside them.
+
+In 2017 she spent nine days in Beit Jala at an international training in
+Nonviolent Communication, which she wrote about in
+[Empathy Cafe](https://thebezine.com/portfolio/empathy-cafe-ester-karen-aida/),
+a letter to an American friend — one of the clearest accounts of what she was
+trying to do, as a religious Jew who had lived in a settlement, sitting in a
+room of Palestinians and Israelis.
+
 She described herself, in a note she kept with her poems, simply:
 
 <blockquote class="acknowledgements">
@@ -57,12 +78,6 @@ sector in coordination with NVC – Bethlehem. A mother of six, she lives in
 Jerusalem.</p>
 </blockquote>
 
-She wrote through fourteen years of illness and intervention without making
-illness the whole of the subject: the poems keep their attention on the bus, the
-gallery, the community garden, the shop full of embroidered dresses, the other
-people in the ward. Her poems and essays appeared in *The BeZine* and on Michael
-Dickel’s *Meta/Phor(e)/Play*, and she showed her paintings, drawings and
-needlework alongside them.
-
-On 9 August 2022, during what should have been a routine catheterization, the
-borrowed heart gave out.
+On 9 August 2022, during what should have been a simple catheterization
+procedure, the borrowed heart gave out. She was buried in Jerusalem the same
+evening.
