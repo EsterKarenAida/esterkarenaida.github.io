@@ -1,13 +1,13 @@
 - group: illuminated
   label: Illuminated pages
   blurb: >
-    She illustrated a Friday night siddur page by page, and a Song of Songs she
-    also translated. The whole siddur is <a href="/siddur/">here, all fifty
-    pages</a>.
+    She illustrated the complete Friday night siddur <em>Zimrat Tal</em> page by
+    page, and a Song of Songs she also translated. The siddur is
+    <a href="/siddur/">here, all fifty pages</a>.
   works:
     - slug: siddur-kabbalat-shabbat-title-page
       title: Kabbalat Shabbat
-      note: Title page of the Friday night siddur she illustrated
+      note: Title page from Zimrat Tal, the Friday night siddur
     - slug: siddur-shema-roundel
       title: Shema
       note: From the same siddur
