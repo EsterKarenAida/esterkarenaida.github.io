@@ -38,4 +38,22 @@ layout: default
       {%- endfor %}
     </div>
   </section>
+
+  <section class="listing">
+    <h2><a href="{{ '/siddur/' | relative_url }}">The siddur</a></h2>
+    <p class="index-note">
+      <em>Zimrat Tal</em>, the Friday night prayer book she illustrated over six
+      years as a bat mitzvah present for Tal. All fifty pages, with an English
+      guide to what is on them.
+    </p>
+    <div class="strip">
+      {%- assign siddur_featured = "04,11,27,43" | split: "," %}
+      {%- for n in siddur_featured %}
+      <a href="{{ '/siddur/' | relative_url }}">
+        <img src="{{ '/assets/img/siddur/thumbs/p' | relative_url }}{{ n }}.jpg"
+             alt="A page from the siddur she illustrated" loading="lazy">
+      </a>
+      {%- endfor %}
+    </div>
+  </section>
 </div>

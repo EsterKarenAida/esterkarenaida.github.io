@@ -1,0 +1,52 @@
+# Page by page contents of Zimrat Tal. `en` is a short English note for readers
+# who do not read Hebrew; it names what is on the page rather than translating it.
+- { n: 1,  section: "",                 en: "Cover" }
+- { n: 2,  section: "",                 en: "Foreword, written in Hebrew by her daughter Tal" }
+- { n: 3,  section: "",                 en: "Contents" }
+- { n: 4,  section: "Candle lighting",  en: "The blessing over the Shabbat candles" }
+- { n: 5,  section: "Kabbalat Shabbat", en: "Title page" }
+- { n: 6,  section: "Kabbalat Shabbat", en: "Yedid Nefesh" }
+- { n: 7,  section: "Kabbalat Shabbat", en: "Psalms 95 and 96" }
+- { n: 8,  section: "Kabbalat Shabbat", en: "Psalms 97 and 98" }
+- { n: 9,  section: "Kabbalat Shabbat", en: "Psalm 99" }
+- { n: 10, section: "Kabbalat Shabbat", en: "Psalm 29, and Ana beKoach" }
+- { n: 11, section: "Kabbalat Shabbat", en: "Lecha Dodi, going out to meet the Shabbat" }
+- { n: 12, section: "Kabbalat Shabbat", en: "Psalm 92, a song for the Shabbat day" }
+- { n: 13, section: "Kabbalat Shabbat", en: "Psalm 93, and the mourner’s Kaddish" }
+- { n: 14, section: "Kabbalat Shabbat", en: "Bameh Madlikin, the Mishnah on lamps and wicks" }
+- { n: 15, section: "Kabbalat Shabbat", en: "Bameh Madlikin, continued" }
+- { n: 16, section: "Arvit",            en: "Title page for the evening service" }
+- { n: 17, section: "Arvit",            en: "Barchu, the call to prayer" }
+- { n: 18, section: "Arvit",            en: "Maariv Aravim, and Ahavat Olam" }
+- { n: 19, section: "Arvit",            en: "The Shema" }
+- { n: 20, section: "Arvit",            en: "V’ahavta, and the second paragraph of the Shema" }
+- { n: 21, section: "Arvit",            en: "The third paragraph, on the fringes" }
+- { n: 22, section: "Arvit",            en: "Emet ve’Emunah" }
+- { n: 23, section: "Arvit",            en: "Mi Chamocha" }
+- { n: 24, section: "Arvit",            en: "Hashkiveinu, asking to be laid down in peace" }
+- { n: 25, section: "Arvit",            en: "V’shamru" }
+- { n: 26, section: "Arvit",            en: "The Amidah begins: Avot, the ancestors" }
+- { n: 27, section: "Arvit",            en: "Gevurot" }
+- { n: 28, section: "Arvit",            en: "Kedushat HaShem, and Atah Kidashta" }
+- { n: 29, section: "Arvit",            en: "Vayechulu, the seventh day" }
+- { n: 30, section: "Arvit",            en: "Retzeh" }
+- { n: 31, section: "Arvit",            en: "Ya’aleh v’Yavo, said on festivals" }
+- { n: 32, section: "Arvit",            en: "Modim, the thanksgiving" }
+- { n: 33, section: "Arvit",            en: "Al HaNisim, for Purim" }
+- { n: 34, section: "Arvit",            en: "Al HaNisim, for Hanukkah" }
+- { n: 35, section: "Arvit",            en: "V’al Kulam, and Shalom Rav" }
+- { n: 36, section: "Arvit",            en: "Elohai Netzor, the silent close of the Amidah" }
+- { n: 37, section: "Arvit",            en: "Yihyu LeRatzon, and Oseh Shalom" }
+- { n: 38, section: "Arvit",            en: "Vayechulu said together, and Magen Avot" }
+- { n: 39, section: "Arvit",            en: "The full Kaddish, and Psalm 23" }
+- { n: 40, section: "Arvit",            en: "Illustration" }
+- { n: 41, section: "Arvit",            en: "Aleinu" }
+- { n: 42, section: "Arvit",            en: "Aleinu, and the mourner’s Kaddish" }
+- { n: 43, section: "Kiddush",          en: "Shalom Aleichem, welcoming the angels of Shabbat" }
+- { n: 44, section: "Kiddush",          en: "Illustration" }
+- { n: 45, section: "Kiddush",          en: "Eshet Chayil, from Proverbs 31" }
+- { n: 46, section: "Kiddush",          en: "Eshet Chayil, continued" }
+- { n: 47, section: "Kiddush",          en: "Kiddush for Friday night" }
+- { n: 48, section: "Kiddush",          en: "Illustration" }
+- { n: 49, section: "Kiddush",          en: "Birkat HaBanim, the blessing of the children" }
+- { n: 50, section: "",                 en: "Back cover, with a note about her life in Hebrew" }
