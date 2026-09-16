@@ -7,17 +7,17 @@ description: Zimrat Tal, a Friday night siddur illustrated by Ester Karen Aida, 
 
 <p class="index-note">
 <em>Zimrat Tal</em> is a prayer book for Friday night, the service that brings in
-the Jewish Sabbath. Ester made it as a bat mitzvah present for her daughter Tal,
-working on it on and off for six years and giving Tal the finished, one-of-a-kind
-book. Ester chose and arranged the traditional Hebrew liturgy and illustrated it
+the Jewish Sabbath. Ester Karen made it as a bat mitzvah present for her daughter
+Tal, working on it on and off for six years and giving Tal the finished,
+one-of-a-kind book. She chose and arranged the traditional Hebrew liturgy and illustrated it
 page by page, filling the margins with sunflowers, angels, goats, Jerusalem
 hillsides, and the rooms of her own house.
 </p>
 
 <p class="index-note">
-After Ester’s death, Shoshan rescanned the original artwork and prepared a small
-edition for family and friends, adding an introduction by Tal and a short note
-about Ester’s life. That new edition is presented here.
+After Ester Karen’s death, Shoshan rescanned the original artwork and prepared a
+small edition for family and friends, adding an introduction by Tal and a short
+note about her life. That new edition is presented here.
 </p>
 
 <p class="index-note">
