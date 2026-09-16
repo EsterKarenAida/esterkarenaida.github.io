@@ -2,7 +2,8 @@
   label: Illuminated pages
   blurb: >
     She illustrated a Friday night siddur page by page, and a Song of Songs she
-    also translated. Only a few pages have been photographed so far.
+    also translated. The whole siddur is <a href="/siddur/">here, all fifty
+    pages</a>.
   works:
     - slug: siddur-kabbalat-shabbat-title-page
       title: Kabbalat Shabbat
@@ -88,6 +89,9 @@
       year: 2021
     - slug: jug-with-flowers-and-citrus
       title: Jug, flowers and citrus
+    - slug: goat-among-sunflowers
+      title: Goat among the sunflowers
+      note: The painting that opens the siddur
     - slug: flower-study-early
       title: Flower study
       note: Signed under her earlier name, so an early piece
