@@ -5,10 +5,15 @@ standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
 ---
 
 Ester Karen Aida was born Karen Aida Morritt in 1967 and grew up in Newfield,
-New York, near Ithaca. She moved to Israel in 1991. For seven years she lived
-in Tekoa, in the hills south-east of Jerusalem, and later in Jerusalem itself.
-She raised six children. Ester was a name she chose for herself; she signed her
-poems and her art Ester Karen Aida.
+New York, near Ithaca. She studied for two years at Brown University in
+Providence, Rhode Island, then for two years at the Pardes Institute of Jewish
+Studies in Jerusalem, and in the autumn of 1989 took her BA in Art and Judaic
+Tradition from Empire State College of the State University of New York. She
+moved to Israel in 1991. For seven years she lived in Tekoa, in the hills
+south-east of Jerusalem, and later in Jerusalem itself. She raised six
+children. Most people knew her as Karen; Ester was a name she took on in the
+years of her illness and transplant, and Aida, a middle name few had heard,
+became the surname she signed her poems and her art with: Ester Karen Aida.
 
 <div class="snapshots">
   <figure>
@@ -40,8 +45,11 @@ knitting, calligraphy, a garden she built herself, and poems.
 She studied in the Shaindy Rudoff Graduate Program in Creative Writing at
 Bar-Ilan University, and was one of the first poetry editors of *The Ilanot
 Review*, whose early print covers she designed. Her heart failed while she was
-a student there, and she waited in hospital for a transplant; her last class in
-the program was held in the lounge of the transplant ward. Writing after her
+a student there, and she waited for months in Hadassah hospital for a
+transplant; her last class in the program was held in the lounge of the
+transplant ward. The donor heart came from a Palestinian woman, and the
+dialogue work between Arabs and Jews that filled her later years grew from that
+gift. Writing after her
 death, her fellow editor Jane Medved said that her work
 [“draws deeply on her connection to Jewish wisdom and her faith in the Creator
 of the Universe”](http://www.ilanotreview.com/want/memoriam-ester-karen-aida/),
