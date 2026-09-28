@@ -51,7 +51,9 @@ She studied in the Shaindy Rudoff Graduate Program in Creative Writing at
 Bar-Ilan University, and was one of the first poetry editors of *The Ilanot
 Review*, whose early print covers she designed. In 2008, commuting to class
 with her ten-month-old baby, she was found to be in heart failure, and two
-weeks later, at Hadassah hospital in Ein Karem, she had a heart attack. She
+weeks later, at Hadassah hospital in Ein Karem, she had a heart attack: not
+clogged arteries, but an autoimmune clotting disorder nobody had known she
+had. She
 was the first patient at Hadassah fitted with a left ventricular assist device,
 and lived on it at home for about a year before she was moved to the top of
 the transplant list and waited in hospital; her last class in the program was

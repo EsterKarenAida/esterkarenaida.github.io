@@ -30,6 +30,12 @@ standfirst: Memorials, an issue dedication, and two films.
     she came back to art and then to poetry. The fullest account in her own words.</span>
   </li>
   <li>
+    <a href="https://lev-isha.org/karen-aida/">סיפורה של קרן אעידה</a>
+    <span class="links__meta">Hadassah’s Women’s Heart Health Centre, 8 January 2017. A Hebrew
+    interview following the Ithaca piece, with more on the cause of her illness and
+    a word to other women: don’t be heroes, see a doctor.</span>
+  </li>
+  <li>
     <a href="http://www.ilanotreview.com/wp-content/uploads/2021/02/The-Ilanot-Review_Spring-Issue-2011-Final-Zeev-Raban.pdf">The Ilanot Review, Spring 2011</a>
     <span class="links__meta">PDF. The masthead lists her as poetry editor, under a married
     name she later set aside.</span>
