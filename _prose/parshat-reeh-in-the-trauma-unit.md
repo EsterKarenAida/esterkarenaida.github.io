@@ -1,6 +1,6 @@
 ---
 title: Parshat Re’eh in the Trauma Unit
-subtitle: Rosh Hodesh Elul: Call to Prayer
+subtitle: "Rosh Hodesh Elul: Call to Prayer"
 standfirst: An afternoon in the trauma unit at Tel Hashomer as Shabbat comes on, typed out on her phone at the bedside.
 publication: The Times of Israel
 published_year: 2018
