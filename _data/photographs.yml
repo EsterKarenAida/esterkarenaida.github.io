@@ -1,0 +1,198 @@
+# Her own photographs, titled as she named the files. Nobody else's work,
+# and nobody in them.
+
+- group: streets
+  label: Streets of the German Colony and Bak'a
+  blurb: >
+    Signs, gates, inscriptions and street trees within a few blocks of home. The captions are hers.
+  works:
+    - slug: ani-zayit-europai
+      title: "Ani Zayit Europai"
+    - slug: emek-refaim-st-incription
+      title: "Emek Refaim St inscription"
+    - slug: emek-refaim-st-mazor-pharmacy
+      title: "Emek Refaim St, Mazor Pharmacy"
+    - slug: emek-refaim-st-mazor-pharmacy-ii
+      title: "Emek Refaim St, Mazor Pharmacy II"
+    - slug: hanoch-albeck-st
+      title: "Hanoch Albeck St"
+    - slug: hildesheimer-st
+      title: "Hildesheimer St"
+    - slug: hildesheimer-paper-cranes
+      title: "Hildesheimer, paper cranes"
+    - slug: i-m-a-real-eucalyptus
+      title: "I'm a real Eucalyptus"
+    - slug: bugs-only
+      title: "Bugs Only"
+    - slug: i-m-the-first-eucalyptus-please-care-for-me
+      title: "I'm the First Eucalyptus, please care for me"
+    - slug: community-garden-cafe
+      title: "Community garden cafe"
+    - slug: paper-cranes
+      title: "Paper cranes"
+    - slug: through-god-s-grace-inscription
+      title: "Through God's grace inscription"
+
+- group: gardens
+  label: Gardens, walls and weeds
+  blurb: >
+    The community garden on Hanoch Albeck Street, the Nature Museum garden, wildflowers on waste ground, and the balcony.
+  works:
+    - slug: almond-branches-persimmons
+      title: "Almond Branches, Persimmons"
+    - slug: asters-armenian-plate
+      title: "Asters, Armenian Plate"
+    - slug: israeli-independence-day-bak-a
+      title: "Israeli Independence Day, Bak'a"
+    - slug: lemon-tree-bak-a
+      title: "Lemon Tree, Bak'a"
+    - slug: monastery-of-st-clare
+      title: "Monastery of St. Clare"
+    - slug: museon-hateva-wall
+      title: "Museon HaTeva wall"
+    - slug: street-cat-arnona
+      title: "Street Cat, Arnona"
+    - slug: winter-mustard-in-flower
+      title: "Winter, Mustard in flower"
+    - slug: yiftach-st
+      title: "Yiftach St"
+    - slug: blue-teapot-with-watercolors
+      title: "Blue teapot with watercolors"
+    - slug: borage-mustard
+      title: "Borage, mustard"
+    - slug: climbing-rose-wisteria
+      title: "Climbing rose, wisteria"
+    - slug: recycled-bottle-border
+      title: "Recycled bottle border"
+    - slug: rose-wisteria-ii
+      title: "Rose, wisteria II"
+    - slug: sign-board-nature-museum
+      title: "Sign board, Nature Museum"
+    - slug: wall-at-the-nature-museum
+      title: "Wall at the Nature Museum"
+    - slug: wisteria-and-bouganvillea
+      title: "Wisteria and bougainvillea"
+    - slug: borage-mustard-field
+      title: "Borage, Mustard field"
+    - slug: fountaingrass-1
+      title: "Fountaingrass 1"
+    - slug: fountaingrass-2
+      title: "Fountaingrass 2"
+    - slug: fountaingrass-3
+      title: "Fountaingrass 3"
+    - slug: fountaingrass-4
+      title: "Fountaingrass 4"
+    - slug: lupine
+      title: "Lupine"
+    - slug: medicinal-borage
+      title: "Medicinal Borage"
+    - slug: road-to-sur-baher-talpiot
+      title: "Road to Sur Baher, Talpiot"
+    - slug: baby-fig-tree
+      title: "Baby fig tree"
+    - slug: blue-door-wisteria
+      title: "Blue door, Wisteria"
+    - slug: entry-cafe-at-community-garden
+      title: "Entry, cafe at community garden"
+    - slug: purple-anemone
+      title: "Purple anemone"
+    - slug: raised-bed-zucchini-flower
+      title: "Raised bed zucchini flower"
+    - slug: spade-mosaic-tile-table
+      title: "Spade, mosaic tile table"
+    - slug: still-life-with-paints
+      title: "Still life with paints"
+    - slug: zucchini-flower-mint
+      title: "Zucchini flower, mint"
+    - slug: zucchini-flower-hanoch-albeck-st
+      title: "Zucchini flower. Hanoch Albeck St"
+    - slug: bottlebrush-tree
+      title: "Bottlebrush Tree"
+    - slug: climbing-roses
+      title: "Climbing roses"
+    - slug: lemon-tree-green-gate
+      title: "Lemon tree, green gate"
+    - slug: pink-rose-emek-refaim
+      title: "Pink rose, Emek Refaim"
+    - slug: roses-in-the-alley
+      title: "Roses in the alley"
+    - slug: sunbather
+      title: "Sunbather"
+
+- group: ramat-rachel
+  label: Ramat Rachel and the olive grove
+  blurb: >
+    One morning in February 2020 at the archaeological park and the olive grove on Hebron Road, below her balcony.
+  works:
+    - slug: hypothetical-ruins
+      title: "Hypothetical Ruins"
+    - slug: at-ramat-rachel
+      title: "At Ramat Rachel"
+    - slug: borage-derech-hevron
+      title: "Borage, Derech Hevron"
+    - slug: east-ruins-tamar-rachel
+      title: "East Ruins, Ramat Rachel"
+    - slug: judean-palace-ruin-ramat-rachel
+      title: "Judean Palace Ruin, Ramat Rachel"
+    - slug: licopene-on-the-balcony
+      title: "Lycopene on the balcony"
+    - slug: mikvaot-ramat-rachel
+      title: "Mikvaot, Ramat Rachel"
+    - slug: mikveh-rabat-rachel
+      title: "Mikveh, Ramat Rachel"
+    - slug: olive-grove-hebron-road
+      title: "Olive grove, Hebron Road"
+    - slug: pine-in-bunker
+      title: "Pine in Bunker"
+    - slug: pine-in-the-mouth
+      title: "Pine in the Mouth"
+    - slug: pines-trenches-ramat-rachel
+      title: "Pines, Trenches, Ramat Rachel"
+    - slug: rabat-rachel
+      title: "Ramat Rachel"
+    - slug: ramat-rachel-regiment
+      title: "Ramat Rachel, regiment"
+    - slug: thistles-hebron-road
+      title: "Thistles, Hebron Road"
+    - slug: tractor-kibbutz-rabat-rachel
+      title: "Tractor, Kibbutz Ramat Rachel"
+    - slug: view-north-ramat-rachel
+      title: "View North, Ramat Rachel"
+    - slug: view-west-ramat-rachel
+      title: "View West, Ramat Rachel"
+    - slug: west-orchards-ramat-rachel
+      title: "West Orchards, Ramat Rachel"
+
+- group: hebron-road
+  label: A walk south on Hebron Road
+  blurb: >
+    Ruins, monasteries and the view east towards the desert, under a winter sky.
+  works:
+    - slug: almog-junction
+      title: "Almog Junction"
+    - slug: chord-bridge-over-kibbutz-orchard
+      title: "Chord Bridge over kibbutz orchard"
+    - slug: pillbox-british-mandate
+      title: "Pillbox\" British Mandate"
+    - slug: beit-tzafafa-holy-land-neighborhoods
+      title: "Beit Tzafafa & Holy land neighborhoods"
+    - slug: beit-tzafafa-gilo-in-distance
+      title: "Beit Tzafafa; Gilo in distance"
+    - slug: har-homa-homat-shmuel
+      title: "Har Homa (Homat Shmuel)"
+    - slug: hotel-country-club-distant
+      title: "Hotel Country Club, distant"
+    - slug: i-ll-need-to-find-out-more-about-this-ruin
+      title: "I'll need to find out more about this ruin"
+    - slug: mar-elias-saint-elijah
+      title: "Mar Elias (Saint Elijah)"
+    - slug: mar-elias-monastery
+      title: "Mar Elias Monastery"
+    - slug: beautiful-ruin-cocks-crowing
+      title: "Beautiful ruin, cocks crowing"
+    - slug: eastward-har-homa
+      title: "Eastward & Har Homa"
+    - slug: landscape-curves-east-towards-jordan
+      title: "Landscape curves east towards Jordan"
+    - slug: opposite-mar-elias
+      title: "Opposite Mar Elias"

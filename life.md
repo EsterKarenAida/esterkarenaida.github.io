@@ -45,7 +45,11 @@ became the surname she signed her poems and her art with: Ester Karen Aida.
 
 She made things all her life, mostly at home and mostly alongside everything
 else: painting, embroidery, mosaics pieced from ceramic shards, sewing,
-knitting, calligraphy, a garden she built herself, and poems.
+knitting, calligraphy, a garden she built herself, and poems. In the years
+after the transplant she made a body of cut-paper, cloth and collage work she
+called the transformation series, and in her last years she walked her
+Jerusalem neighbourhood with a phone, photographing its gardens, signs and ruins
+and painting the orchards below her balcony in watercolour.
 
 She studied in the Shaindy Rudoff Graduate Program in Creative Writing at
 Bar-Ilan University, and was one of the first poetry editors of *The Ilanot

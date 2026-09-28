@@ -1,0 +1,7 @@
+{%- assign total = 0 -%}
+{%- for section in site.data.photographs -%}
+{%- assign total = total | plus: section.works.size -%}
+{%- endfor -%}
+{%- capture count -%}{% include number-word.html n=total %}{%- endcapture -%}
+{{ count | capitalize }} of her own photographs, from walks around her Jerusalem
+neighbourhood, captioned in her words.

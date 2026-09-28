@@ -10,7 +10,7 @@ pieced mosaics from ceramic shards, and she designed the first printed covers
 of <em>The Ilanot Review</em>. Most of what follows was photographed by her and
 posted as she finished it, so the pictures are snapshots rather than
 reproductions, and a few works appear as they were, unfinished or still wet.
-More is being gathered and scanned.
+Where she named a work, the name is hers; the rest are described.
 </p>
 
 {%- for section in site.data.artwork %}

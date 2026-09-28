@@ -30,7 +30,7 @@ layout: default
   <section class="listing">
     <h2><a href="{{ '/artwork/' | relative_url }}">Artwork</a></h2>
     <div class="strip">
-      {%- assign featured = "sunrise-over-terraced-hills,siddur-vayechulu-kiddush-cup,marigold-picking,zoe-belle-quilt" | split: "," %}
+      {%- assign featured = "jug-with-persimmons,siddur-vayechulu-kiddush-cup,hart-crane,zoe-belle-quilt" | split: "," %}
       {%- for slug in featured %}
       <a href="{{ '/artwork/' | relative_url }}#{{ slug }}">
         <img src="{{ '/assets/img/artwork/' | relative_url }}{{ slug }}.jpg" alt="{{ slug | replace: '-', ' ' }}" loading="lazy">

@@ -1,5 +1,9 @@
+# Titles are hers wherever she left one: the names she gave the files in her
+# Drive, her Facebook and Redbubble listings, or an inscription on the work.
+# The rest are descriptive and marked as such in the archive.
+
 - group: illuminated
-  label: Illuminated pages
+  label: Calligraphy and illuminated pages
   blurb: >
     She illustrated the complete Friday night siddur <em>Zimrat Tal</em> page by
     page, and a Song of Songs she also translated. The siddur is
@@ -8,29 +12,110 @@
     - slug: siddur-kabbalat-shabbat-title-page
       title: Kabbalat Shabbat
       note: Title page from Zimrat Tal, the Friday night siddur
-    - slug: siddur-shema-roundel
-      title: Shema
-      note: From the same siddur
     - slug: siddur-vayechulu-kiddush-cup
       title: Vayechulu
       note: The kiddush holding the text, the six days turning around it
     - slug: song-of-songs-page-blue
-      title: Shir HaShirim
+      title: Shir HaShirim, Shuvi Shulamit
       note: From a Song of Songs she illustrated and translated herself
     - slug: song-of-songs-page-gazelle
       title: Shir HaShirim, the gazelle
+    - slug: siddur-shema-roundel
+      title: Dodi Li
+      medium: Coloured pencil
+      note: Song of Songs 2:16, “My beloved is mine and I am his”
     - slug: birkat-habanim
       title: Birkat HaBanim
       medium: Print, numbered 7 of 50
       note: Signed Ester Karen Boxenhorn
+    - slug: calligraphy-in-progress
+      title: Ner Hashem Nishmat Adam
+      note: Proverbs 20:27, “The lamp of God is the soul of man”
+    - slug: a-mystery-to-be-loved
+      title: A Mystery to Be Loved
+      note: “A person coming to you with a problem is not a problem to be solved but a mystery to be loved”
     - slug: ketubah-wildflowers
       title: Ketubah
       note: Made as a wedding gift
-    - slug: calligraphy-in-progress
-      title: Lettering, unfinished
+
+- group: watercolours
+  label: Watercolours, 2019–2021
+  blurb: >
+    The folder she kept them in was called <em>Karen’s watercolors 2019–2021</em>,
+    and the titles are hers: the blue teapot on her table, the orchards at
+    Ramat Rachel below her balcony, Gevaot in Gush Etzion, and one Ithaca
+    subject.
+  works:
+    - slug: jug-with-persimmons
+      title: Blue Teapot with Persimmons
+      year: 2021
+    - slug: almond-branches-persimmons
+      title: Almond Branches, Persimmons
+    - slug: anemones-in-blue-teapot
+      title: Anemones in Blue Teapot
+    - slug: blue-teapot-with-garlic
+      title: Blue Teapot with Garlic
+    - slug: blue-teapot-borage
+      title: Blue Teapot, Borage
+    - slug: lemons
+      title: Lemons
+    - slug: jug-with-flowers-and-citrus
+      title: Jug, flowers and citrus
+    - slug: foliage-with-orange-blooms
+      title: Nasturtiums
+      year: 2020
+    - slug: from-hadassa
+      title: From Hadassa
+    - slug: echinacea-cayuga-inlet
+      title: Echinacea, Cayuga Inlet
+      note: The inlet at Ithaca, where she grew up
+    - slug: homing
+      title: Homing
+    - slug: flowering-orchard-with-cypresses
+      title: Cherry Trees at Ramat Rachel
+    - slug: pink-orchard
+      title: Pink Orchard
+    - slug: violet-orchard
+      title: Violet Orchard
+    - slug: white-orchard-2019
+      title: White Orchard
+      year: 2019
+    - slug: wooded-park
+      title: Shadows
+      note: Ramat Rachel
+    - slug: red-geranium-balcony
+      title: Red Geranium (balcony)
+    - slug: veiled-vineyard-balcony
+      title: Veiled Vineyard (balcony)
+    - slug: pines-ramat-rachel
+      title: Pines, Ramat Rachel Overlook, Jerusalem
+      medium: Pencil
+      year: 2021
+    - slug: mizmor-ledavid-community-garden
+      title: Mizmor LeDavid Community Garden, Jerusalem
+      year: 2022
+    - slug: garden-structure-among-trees
+      title: Café in the Orchard, Gevaot, Gush Etzion
+    - slug: snowfall-in-gevaot
+      title: Snowfall in Gevaot
+    - slug: valley-wet-in-wet
+      title: Hadassa Hills, Abstract
+    - slug: judean-desert-with-mast
+      title: The Jordan, from the Goldman Promenade
+    - slug: jerusalem-before-yom-kippur
+      title: Dusk over Jerusalem
+      year: 2021
+      note: Inscribed “before Yom Kippur, Sept 14 2021”
+    - slug: goat-among-sunflowers
+      title: Baby Goat, Sunflowers
+      note: The painting that opens the siddur, before the lettering was added
+    - slug: fog-on-little-cat-feet-plate
+      title: The Fog Comes In on Little Cat Feet
+      medium: Painted plate
+      note: The title is Carl Sandburg’s line
 
 - group: painting
-  label: Painting and drawing
+  label: Other painting and drawing
   blurb: >
     Mostly the hills around Jerusalem, much of it worked outdoors, on whatever
     paper was to hand.
@@ -39,9 +124,6 @@
       title: Sunrise over the terraces
     - slug: olives-trotsky-park
       title: Olives at Trotsky Park, opposite Augusta Victoria Hospital
-    - slug: jerusalem-before-yom-kippur
-      title: Jerusalem, before Yom Kippur
-      year: 2021
     - slug: marigold-picking
       title: Marigold Picking
       medium: Pastel
@@ -50,21 +132,10 @@
       title: Children’s Community Garden, Arnona, Jerusalem
       medium: Pastel on a brown paper grocery bag
       year: 2022
-    - slug: mizmor-ledavid-community-garden
-      title: Mizmor LeDavid Community Garden, Jerusalem
-      year: 2022
-    - slug: flowering-orchard-with-cypresses
-      title: Orchard in flower
-    - slug: wooded-park
-      title: Under the trees
-    - slug: garden-structure-among-trees
-      title: Shelter among the trees
     - slug: fence-and-scrub
       title: Fence and scrub
     - slug: misty-valley-with-pylons
       title: Valley with pylons
-    - slug: judean-desert-with-mast
-      title: The desert, looking east
     - slug: desert-hillside-storm
       title: Hillside under a storm
     - slug: hills-violet-sky
@@ -80,47 +151,90 @@
       title: Hills, a study
     - slug: blue-and-gold-sky
       title: Blue and gold
-    - slug: valley-wet-in-wet
-      title: Valley, wet in wet
-    - slug: foliage-with-orange-blooms
-      title: Leaves and orange flowers
-    - slug: jug-with-persimmons
-      title: Jug and persimmons
-      year: 2021
-    - slug: jug-with-flowers-and-citrus
-      title: Jug, flowers and citrus
-    - slug: goat-among-sunflowers
-      title: Goat among the sunflowers
-      note: The painting that opens the siddur
     - slug: flower-study-early
       title: Flower study
       note: Signed under her earlier name, so an early piece
     - slug: woman-in-embroidered-thob
       title: Woman in an embroidered thob
       year: 2021
+      note: Painted from her own photographs, taken in Husan
     - slug: woman-in-a-flowering-field
       title: Woman in a flowering field
-      note: Painted from a photograph
-    - slug: burning-house
-      title: Burning House
-      medium: Oil
-      year: 2022
+      note: Painted from her own photographs, taken in Husan
     - slug: psalm-24
       title: Psalm 24
       year: 2022
-    - slug: pines-ramat-rachel
-      title: Pines, Ramat Rachel Overlook, Jerusalem
-      medium: Pencil
-      year: 2021
-    - slug: figures-among-olives
-      title: Figures among the olives
-      medium: Ink, unfinished
     - slug: brushed-circle
       title: Circle and leaves
       medium: Ink, annotated in her hand
     - slug: brushed-eye-form
       title: Eye
       medium: Ink
+
+- group: transformation
+  label: The transformation series
+  blurb: >
+    Cut paper, collage, cloth and drawing from the years after her heart
+    transplant; the photographs of them date from 2011. <em>Kivshan</em> is the
+    furnace of the midrash in which Abraham survives the fire.
+  works:
+    - slug: burning-house
+      title: Burning House
+      medium: Oil
+    - slug: burning-house-paper-collage
+      title: Burning House, paper collage
+      medium: Cut paper
+    - slug: hart-crane
+      title: Hart Crane
+      medium: Cut paper
+    - slug: abraham-in-the-furnace
+      title: Furnace (olive tree)
+      medium: Collage, with the midrash pasted beneath
+    - slug: kivshan-pictograph
+      title: Kivshan, pictograph
+    - slug: kivshan-broken-knee
+      title: Kivshan, broken knee
+    - slug: kivshan-listening
+      title: Kivshan, listening
+      medium: Gouache on cardboard
+    - slug: transformation-drawing
+      title: Transformation, drawing
+    - slug: breath-and-dove
+      title: Vehigadeta
+      medium: Cut paper
+      note: “And you shall tell your child”, Exodus 13:8
+    - slug: figures-among-olives
+      title: Sonnet
+      medium: Ink
+    - slug: red-sea
+      title: Red Sea
+    - slug: rose-ocean
+      title: Rose Ocean
+    - slug: jonah-quilt
+      title: Jonah
+      medium: Quilted
+    - slug: birth-applique
+      title: Birth
+      medium: Appliqué
+    - slug: with-child-watercolor
+      title: With Child
+      medium: Watercolour
+    - slug: black-eyed-susan
+      title: Black-eyed Susan
+    - slug: reclining-figure
+      title: Brick
+      medium: Fused plastic and cut paper
+    - slug: transformation-untitled-1
+      title: Untitled, cut-paper figure
+    - slug: transformation-untitled-2
+      title: Untitled, red drawing
+    - slug: transformation-untitled-3
+      title: Untitled, leaves and a figure
+    - slug: transformation-untitled-4
+      title: Untitled, red flower
+    - slug: transformation-untitled-5
+      title: Untitled, tree in a circle
+      medium: Cut paper on cloth
 
 - group: cloth
   label: Cloth
@@ -142,6 +256,9 @@
       title: Moses Intervening in a Beating
       medium: Fabric, hand-worked
       year: 2022
+    - slug: rainbow-curtain
+      title: Rainbow Curtain
+      medium: Strip-pieced
     - slug: crane-panel-door-hanging
       title: Cranes, and a line about Jerusalem
       note: Hung on her door
@@ -159,24 +276,12 @@
       medium: Ceramic shards, set into a wall
       note: Old men and old women shall again sit in the streets of Jerusalem
 
-- group: collage
-  label: Collage
-  works:
-    - slug: breath-and-dove
-      title: Breath, and a dove
-      medium: Cut paper
-    - slug: abraham-in-the-furnace
-      title: Abraham in the furnace
-      medium: Collage, with the midrash pasted beneath
-    - slug: reclining-figure
-      title: Reclining figure
-      medium: Collage
-
 - group: garden
   label: The garden
   blurb: >
     Her own photographs of the balcony garden in Jerusalem, which she built out
-    of buckets, crates and a planter she painted herself.
+    of buckets, crates and a planter she painted herself. More of her
+    photographs are <a href="/photographs/">here</a>.
   works:
     - slug: garden-echinacea
       title: Echinacea on the balcony
