@@ -1,19 +1,19 @@
 ---
 title: Her life
 permalink: /life/
-standfirst: Ester Karen Aida, born Karen Aida Morritt, 1967 – 9 August 2022.
+standfirst: Ester Karen Aida, born Karen Aida Morritt, 20 August 1967 – 9 August 2022.
 ---
 
-Ester Karen Aida was born Karen Aida Morritt in 1967 and grew up in Newfield,
+Ester Karen Aida was born Karen Aida Morritt on 20 August 1967 and grew up in Newfield,
 New York, near Ithaca, where she was salutatorian of the Newfield High School
 class of 1985. Her family kept the major Jewish holidays without being
 observant, and she later described herself as a quiet, dreamy child, deeply
 marked by her stepfather’s death in her last year of school. She studied for
 two years at Brown University in Providence, Rhode Island, went to Israel in
 her junior year looking for spiritual grounding, and stayed: two years at the
-Pardes Institute of Jewish Studies in Jerusalem, and in the autumn of 1989 a BA
-in Art and Judaic Tradition from Empire State College of the State University
-of New York. She settled in Israel in 1991. For seven years she lived in Tekoa,
+Pardes Institute of Jewish Studies in Jerusalem. In autumn 1989 she received
+a BA in Art and Judaic Tradition from Empire State College of the State
+University of New York. She settled in Israel in 1991. For seven years she lived in Tekoa,
 in the hills south-east of Jerusalem, then in the moshav of Beit Meir in the
 Judean hills, and finally in Jerusalem itself. She raised six children. Most
 people knew her as Karen; Ester was a name she took on in the
