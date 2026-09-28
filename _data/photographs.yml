@@ -8,20 +8,14 @@
   works:
     - slug: ani-zayit-europai
       title: "Ani Zayit Europai"
-    - slug: emek-refaim-st-incription
-      title: "Emek Refaim St inscription"
     - slug: emek-refaim-st-mazor-pharmacy
       title: "Emek Refaim St, Mazor Pharmacy"
     - slug: emek-refaim-st-mazor-pharmacy-ii
       title: "Emek Refaim St, Mazor Pharmacy II"
-    - slug: hanoch-albeck-st
-      title: "Hanoch Albeck St"
     - slug: hildesheimer-st
       title: "Hildesheimer St"
     - slug: hildesheimer-paper-cranes
       title: "Hildesheimer, paper cranes"
-    - slug: i-m-a-real-eucalyptus
-      title: "I'm a real Eucalyptus"
     - slug: bugs-only
       title: "Bugs Only"
     - slug: i-m-the-first-eucalyptus-please-care-for-me
@@ -31,7 +25,7 @@
     - slug: paper-cranes
       title: "Paper cranes"
     - slug: through-god-s-grace-inscription
-      title: "Through God's grace inscription"
+      title: "Through God's grace inscription, Emek Refaim St"
 
 - group: gardens
   label: Gardens, walls and weeds
@@ -44,28 +38,20 @@
       title: "Asters, Armenian Plate"
     - slug: israeli-independence-day-bak-a
       title: "Israeli Independence Day, Bak'a"
-    - slug: lemon-tree-bak-a
-      title: "Lemon Tree, Bak'a"
     - slug: monastery-of-st-clare
-      title: "Monastery of St. Clare"
-    - slug: museon-hateva-wall
-      title: "Museon HaTeva wall"
+      title: "Monastery of St. Clare, Hanoch Albeck St"
     - slug: street-cat-arnona
       title: "Street Cat, Arnona"
     - slug: winter-mustard-in-flower
       title: "Winter, Mustard in flower"
     - slug: yiftach-st
-      title: "Yiftach St"
+      title: "Bottlebrush Tree, Yiftach St"
     - slug: blue-teapot-with-watercolors
       title: "Blue teapot with watercolors"
-    - slug: borage-mustard
-      title: "Borage, mustard"
     - slug: climbing-rose-wisteria
       title: "Climbing rose, wisteria"
     - slug: recycled-bottle-border
       title: "Recycled bottle border"
-    - slug: rose-wisteria-ii
-      title: "Rose, wisteria II"
     - slug: sign-board-nature-museum
       title: "Sign board, Nature Museum"
     - slug: wall-at-the-nature-museum
@@ -100,22 +86,16 @@
       title: "Raised bed zucchini flower"
     - slug: spade-mosaic-tile-table
       title: "Spade, mosaic tile table"
-    - slug: still-life-with-paints
-      title: "Still life with paints"
     - slug: zucchini-flower-mint
       title: "Zucchini flower, mint"
     - slug: zucchini-flower-hanoch-albeck-st
       title: "Zucchini flower. Hanoch Albeck St"
-    - slug: bottlebrush-tree
-      title: "Bottlebrush Tree"
-    - slug: climbing-roses
-      title: "Climbing roses"
     - slug: lemon-tree-green-gate
-      title: "Lemon tree, green gate"
+      title: "Lemon tree, green gate, Bak'a"
     - slug: pink-rose-emek-refaim
       title: "Pink rose, Emek Refaim"
     - slug: roses-in-the-alley
-      title: "Roses in the alley"
+      title: "Roses in the alley, wisteria"
     - slug: sunbather
       title: "Sunbather"
 
