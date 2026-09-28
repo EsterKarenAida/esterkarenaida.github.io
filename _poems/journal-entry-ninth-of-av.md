@@ -1,10 +1,16 @@
 ---
 title: Journal Entry, Ninth of Av
 opening: As when driving in the hush of mountains
-draft: true
+publication: The Times of Israel
+published_year: 2018
+url_source: https://blogs.timesofisrael.com/ive-never-been-there-the-book-of-hours/
 spaced: true
 note: >-
-  From her working folder rather than the folder she marked polished.
+  She published it on her Times of Israel blog on 20 August 2018 as “I’ve
+  Never Been There: the Book of Hours”, under an epigraph from Li-Young Lee’s
+  “I Ask My Mother to Sing” and a chat exchange about the checkpoints between
+  Bethlehem and Jerusalem. The text here follows the later copy in her working
+  folder, which differs in a few lines.
 ---
 
 As when driving in the hush of mountains

@@ -1,12 +1,18 @@
 ---
 title: The Apparent Idleness of Cemeteries
 opening: I choose a world in which crimson sheets
+publication: The Times of Israel
+published_year: 2018
+url_source: https://blogs.timesofisrael.com/the-apparent-idleness-of-cemeteries/
 drafted: August 2018
 manuscript: Centrifuge Rattle
 manuscript_order: 12
 note: >-
-  From the poems she had finished but not yet published. Her notes cite
-  S. Patterson, “The Place in this Poem,” and Hart Crane, “The Hive.”
+  On her Times of Israel blog she gave it the subtitle “A foray into fields
+  of conflict, killing fields, and ‘overwhelming silence’” and set it beside
+  her collage “The Heart prepares a Tomb for those Dead to Themselves” (fused
+  plastic bags and paper, 2014). Her notes cite S. Patterson, “The Place in
+  this Poem,” and Hart Crane, “The Hive.”
 ---
 
 I choose a world in which crimson sheets

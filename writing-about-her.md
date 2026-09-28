@@ -53,5 +53,8 @@ standfirst: Memorials, an issue dedication, and two films.
 
 <p class="index-note">
 Her own essays are on the <a href="{{ '/prose/' | relative_url }}">prose</a>
-page.
+page. In August 2018 she also kept a short-lived
+<a href="https://blogs.timesofisrael.com/author/karen-boxenhorn/">blog at
+<em>The Times of Israel</em></a>, five posts of poems, a trauma-ward diary and her
+artwork, all of which are collected here.
 </p>

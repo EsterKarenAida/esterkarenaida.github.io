@@ -2,7 +2,13 @@
 title: Call to Prayer
 subtitle: Parshat Re’eh in The Trauma Unit
 standfirst: An afternoon in the trauma unit at Tel Hashomer as Shabbat comes on, typed out on her phone at the bedside.
-note: From her papers, unpublished in her lifetime and printed here as she wrote it.
+publication: The Times of Israel
+published_year: 2018
+url_source: https://blogs.timesofisrael.com/parshat-reeh-in-the-trauma-unit/
+note: >-
+  Posted on her Times of Israel blog on 12 August 2018, Rosh Hodesh Elul, with a
+  note that the names had been changed. The text here follows her own copy,
+  which differs slightly from the published one.
 ---
 
 I'm at a trauma unit in Tel Hashomer hospital visiting Shirin, the 22 year old who was previously hospitalized elsewhere for six months in oncology. I've told some of you about her. She has undergone surgery and everything hurts. Can't keep anything down. To me she looks like a gazelle you might barely sight at Ein Gedi, enormous eyes and a remarkable equanimity. Her father and her young husband slept last night, as the whole last week, on an upper floor where they managed to find chairs in a waiting area without the usual arms. Her 20 year old sister slept by her side. The family has six other children at home, mostly younger.
