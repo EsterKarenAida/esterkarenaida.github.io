@@ -5,6 +5,7 @@ layout: default
   <header class="poem__head">
     <h1>{{ page.title }}</h1>
     {%- if page.subtitle %}<p class="poem__subtitle">{{ page.subtitle }}</p>{% endif -%}
+    {% include save-button.html kind="poem" %}
   </header>
 
   <div class="poem__body{% if page.spaced %} poem__body--spaced{% endif %}">

@@ -1,0 +1,8 @@
+<button class="save" type="button" hidden
+        data-save-url="{{ page.url | relative_url }}"
+        data-save-title="{{ page.title | escape }}"
+        data-save-kind="{{ include.kind }}"
+        aria-pressed="false" aria-label="Save this {{ include.kind }}">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.3 4.6 13a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9a4.6 4.6 0 0 1 6.5 6.5Z"/></svg>
+  <span class="save__label">Save</span>
+</button>
