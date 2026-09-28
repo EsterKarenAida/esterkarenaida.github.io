@@ -58,7 +58,8 @@ was the first patient at Hadassah fitted with a left ventricular assist device,
 and lived on it at home for about a year before she was moved to the top of
 the transplant list and waited in hospital; her last class in the program was
 held in the lounge of the transplant ward. In the summer of 2009 she received
-a donor heart from a Palestinian woman, and the dialogue work between Arabs and
+a donor heart from a Palestinian woman, and with it, as she later wrote, a
+stroke, “which changed almost everything about my life”; the dialogue work between Arabs and
 Jews that filled her later years grew from that gift. The years afterwards
 brought severe osteoporosis from the steroids, and a walker. She turned to art first, making image after image of a woman
 falling into a burning house, and only around 2015 began writing poems again
