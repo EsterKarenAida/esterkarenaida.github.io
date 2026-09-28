@@ -24,6 +24,12 @@ standfirst: Memorials, an issue dedication, and two films.
     the artwork shown here.</span>
   </li>
   <li>
+    <a href="https://www.ithaca.com/news/from-perfect-health-to-heart-transplant/article_09390ad0-6a2c-11e6-bde0-1b1b24e569a8.html">From Perfect Health to Heart Transplant</a>
+    <span class="links__meta">Jaime Cone, <em>Ithaca Times</em>, 29 August 2016. Written on her first
+    visit home to Newfield in twelve years: the illness, the transplant, and how
+    she came back to art and then to poetry. The fullest account in her own words.</span>
+  </li>
+  <li>
     <a href="http://www.ilanotreview.com/wp-content/uploads/2021/02/The-Ilanot-Review_Spring-Issue-2011-Final-Zeev-Raban.pdf">The Ilanot Review, Spring 2011</a>
     <span class="links__meta">PDF. The masthead lists her as poetry editor, under a married
     name she later set aside.</span>
